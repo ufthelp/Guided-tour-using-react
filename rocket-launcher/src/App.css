@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+}
+.tour-title-txt{
+  border-bottom: 1px solid #f04;
+  color: #9c0;
+  font-size: 20px;
+  padding-bottom: 6px;
+  padding-right: 18px;
+  position: relative
+}
+.tour-subtitle-txt{
+  padding: 12px 0 18px;
+}

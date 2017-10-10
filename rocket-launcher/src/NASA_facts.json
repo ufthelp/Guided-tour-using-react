@@ -1,0 +1,41 @@
+[
+    {
+        "id": 0,
+        "title": "March 2000",
+        "fact": "Troy McAlpin and Doru Davidson found XO Technologies",
+        "clicked": false 
+
+        },
+    {
+        "id": 1,
+        "title": "November 2003",
+        "fact": "100th Customer-The growing company reaches a major milestone",
+        "clicked": false 
+        },
+    {
+        "id": 2,
+        "title": "August 2007",
+        "fact": "Series C Funding,AlarmPoint receives another round of funding",
+        "clicked": false 
+        },
+
+    {
+        "id": 3,
+        "title": "June 2010",
+        "fact": "xMatters is born from Alarmpoint",
+        "clicked": false 
+        },
+    {
+        "id": 4,
+        "title": "Novemeber 2011",
+        "fact": "1000 clients for Xmatters",
+        "clicked": false 
+        },
+    {
+        "id": 5,
+        "title": "June 2049",
+        "fact": "Best place to work by NASA",
+        "clicked": false 
+    }
+     
+]
